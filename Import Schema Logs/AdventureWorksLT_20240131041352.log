@@ -1,0 +1,10 @@
+31-01-2024 17:13:52	This log contains information about the import schema operation into project 'AdventureWorksLT' on computer 'SIT-WIN10EV' by user 'sit'.
+31-01-2024 17:13:52	Deserializing model
+31-01-2024 17:13:54	Resolving model
+31-01-2024 17:13:56	Visiting imported model for types
+31-01-2024 17:13:59	Scanning project for duplicate elements
+31-01-2024 17:14:00	Finished duplicate element processing
+31-01-2024 17:14:28	Processing extra files
+31-01-2024 17:14:28	Finished importing Data-tier Application file.
+31-01-2024 17:14:28	A summary of the import was saved to the following location: C:\Users\sit\source\repos\AdventureWorksLT\Import Schema Logs\AdventureWorksLT_20240131041352.log
+31-01-2024 17:14:28	Click Finish to continue...
